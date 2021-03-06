@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.3)  5 MAR 2021 19:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.3)  6 MAR 2021 18:46
 entering extended mode
 **./Chart.tex
 (Chart.tex
@@ -559,7 +559,7 @@ Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ellio/A
 ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Users
 /ellio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10
 .pfb>
-Output written on Chart.pdf (14 pages, 141267 bytes).
+Output written on Chart.pdf (14 pages, 141210 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  19 named destinations out of 1000 (max. 500000)
