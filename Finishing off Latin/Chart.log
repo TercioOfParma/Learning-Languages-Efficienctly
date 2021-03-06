@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.3)  6 MAR 2021 18:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.3)  6 MAR 2021 20:15
 entering extended mode
 **./Chart.tex
 (Chart.tex
@@ -373,7 +373,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
 (C:\Users\ellio\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 \OT1/cmr/m/n/10.95 De-po-nent, Ac-tive and Pas-sive
  []
 
@@ -1271,7 +1271,7 @@ Package rerunfilecheck Info: File `Chart.out' has not changed.
 Here is how much of TeX's memory you used:
  6668 strings out of 479799
  101194 string characters out of 2869723
- 459456 words of memory out of 3000000
+ 459458 words of memory out of 3000000
  23537 multiletter control sequences out of 15000+200000
  541888 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1282,7 +1282,7 @@ fonts/cm/cmr10.pfb><C:/Users/ellio/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr12.pfb><C:/Users/ellio/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmr17.pfb><C:/Users/ellio/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Chart.pdf (11 pages, 88620 bytes).
+Output written on Chart.pdf (11 pages, 88633 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
