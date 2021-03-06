@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.3)  6 MAR 2021 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.3)  6 MAR 2021 18:59
 entering extended mode
 **./Chart.tex
 (Chart.tex
@@ -357,6 +357,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 13.
 LaTeX Info: Redefining \pageref on input line 13.
 LaTeX Info: Redefining \nameref on input line 13.
+ (Chart.out) (Chart.out)
 \@outlinefile=\write3
 \openout3 = `Chart.out'.
 
@@ -783,36 +784,507 @@ Underfull \hbox (badness 1242) in paragraph at lines 281--282
 \OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
  []
 
-[3] [4] [5] [6] [7] (Chart.aux)
 
-Package rerunfilecheck Warning: File `Chart.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+Underfull \hbox (badness 2245) in paragraph at lines 284--284
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
 
-Package rerunfilecheck Info: Checksums for `Chart.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
 
+
+Underfull \hbox (badness 1342) in paragraph at lines 286--287
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 286--287
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 289--289
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 291--292
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 291--292
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 294--294
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 296--297
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 296--297
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 299--299
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 301--302
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 301--302
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 304--304
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 306--307
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 306--307
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 309--309
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 311--312
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 311--312
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 311--312
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 314--314
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 316--317
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 316--317
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 319--319
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 321--322
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 321--322
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 324--324
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 326--327
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 326--327
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 326--327
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 329--329
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 331--332
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 331--332
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 334--334
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 336--337
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 336--337
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 339--339
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--342
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 341--342
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 341--342
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 344--344
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 346--347
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 346--347
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+[3] [4] [5]
+Underfull \hbox (badness 2245) in paragraph at lines 349--349
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 351--352
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 351--352
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 353--353
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 355--356
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 355--356
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 357--357
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 359--360
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 359--360
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 362--362
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--365
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 364--365
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 364--365
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 367--367
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 369--370
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 369--370
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 372--372
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 374--375
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 374--375
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 377--377
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 379--380
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 379--380
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 382--382
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 384--385
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 384--385
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 387--387
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 389--390
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 389--390
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 392--392
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--395
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 394--395
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 394--395
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 397--397
+\OT1/cmr/m/n/10.95 the Fre-quency List, Com-mit to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
+[]|\OT1/cmr/m/n/10.95 Sum and First, Sec-ond,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 399--400
+\OT1/cmr/m/n/10.95 Third,Forth and Third -ior
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 399--400
+\OT1/cmr/m/n/10.95 Con-ju-ga-tion once, and De-
+ []
+
+[6] [7] [8] [9] [10] [11] (Chart.aux)
+Package rerunfilecheck Info: File `Chart.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 6660 strings out of 479799
- 101042 string characters out of 2869723
- 454938 words of memory out of 3000000
+ 6668 strings out of 479799
+ 101194 string characters out of 2869723
+ 459456 words of memory out of 3000000
  23537 multiletter control sequences out of 15000+200000
  541888 words of font info for 55 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,11n,85p,264b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 80i,11n,85p,264b,426s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/ellio/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx10.pfb><C:/Users/ellio/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr10.pfb><C:/Users/ellio/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr12.pfb><C:/Users/ellio/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmr17.pfb><C:/Users/ellio/AppData/Local/Programs/MiKTe
 X/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Chart.pdf (7 pages, 81493 bytes).
+Output written on Chart.pdf (11 pages, 88620 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 500000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
